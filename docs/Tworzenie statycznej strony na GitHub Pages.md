@@ -21,10 +21,15 @@ Przy pomocy GitHub Pages można utworzyć statyczną stronę internetową, któr
    > Najczęściej będzie to `main`.
 6. 
 ## Tworzenie pliku `index.md`
+Plik `index.md` można utworzyć w Visual Studio Code lub bezpośrednio w repozytorium na GitHubie. Po utworzeniu pliku należy wprowadzić do niego zawartość w odpowiednim formacie.
+1. 
 ## Personalizowanie pliku `_config.yml`
 ## Tworzenie repozytorium z szablonem Just The Docs
-Dla ułatwienia można skorzystać z gotowego i powszechnie znanego szablonu Just The Docs. Repozytorium utworzone przy pomocy tego szablonu można później spersonalizować.
+Dla ułatwienia można skorzystać z gotowego i powszechnie znanego szablonu Just The Docs. Repozytorium utworzone przy pomocy tego szablonu można później spersonalizować. Plik `index.md` tworzy się automatycznie i należy go wyłącznie spersonalizować.   
+Informacje na temat możliwości personalizacji, a także objaśnienie różnych opcji znajdują się w pliku [Readme.md](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md).  
+Dokumentacja online znajduje się [tutaj](https://just-the-docs.github.io/just-the-docs/).
 1. Wejdź na stronę [Just The Docs](https://just-the-docs.github.io/just-the-docs/).
 2. W sekcji **Getting started** kliknij link [use the template](https://github.com/just-the-docs/just-the-docs-template/generate).
    > Otworzy się strona **Create a new repository**, na której już wybrany został szablon Just The Docs.
 3. Uzupełnij opcje zgodnie z opisem w Obsługa narzędzia GitHub i kliknij przycisk *Create repository*
+   
